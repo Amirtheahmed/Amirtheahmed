@@ -11,7 +11,7 @@
    [https://www.amirtheahmed.dev/projects/](https://www.amirtheahmed.dev/projects/)
  - 📝 I regularly write articles on
    [https://www.amirtheahmed.dev/post/](https://www.amirtheahmed.dev/post/)
- - 💬 Ask me about **Laravel, FastApi, Spring Boot, Scalability,
+ - 💬 Ask me about **Laravel, FastApi, Spring Boot, Scalability, Security,
    Observability and Fault Tolerance**
  - 📫 How to reach me **amirtheahmed@gmail.com**
 
