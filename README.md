@@ -5,7 +5,7 @@
  - 🔭 I’m currently working on **Alfred - multipurpose AI powered
    tooling**
    
- - 🌱 I’m currently learning **Designing Data-Intensive Applications:
+ - 🌱 I’m currently reading **Designing Data-Intensive Applications:
    The Big Ideas Behind Reliable, Scalable, and Maintainable Systems**
  - 👨‍💻 All of my projects are available at
    [https://www.amirtheahmed.dev/projects/](https://www.amirtheahmed.dev/projects/)
