@@ -24,4 +24,4 @@ Name is Amir Ahmed! 🌟
 ![Database & Cloud](https://skillicons.dev/icons?i=mysql,redis,postgresql,rabbitmq,mongodb,neo4j,couchbase)
 
 #### Cloud & Technologies
-![Other tools & Technologies](https://skillicons.dev/icons?i=aws,git,docker,kubernetes,linux,cloudflare,terraform,githubactions,gitlabci,googlecloud,vscode)
+![Other tools & Technologies](https://skillicons.dev/icons?i=aws,git,docker,kubernetes,linux,cloudflare,terraform,githubactions,googlecloud,vscode,gitlabci)
